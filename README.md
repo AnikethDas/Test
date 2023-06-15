@@ -1,2 +1,4 @@
 # Test
-TEsting out using GitHub
+Testing out using GitHub
+
+Adding line in branch 1
